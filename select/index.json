@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "vivi",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-17T06:47:35.958288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "vivi",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_vivi_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Il mondo dei non vivi",
+      "artist": "Andrea Mirò",
+      "has_synced": false,
+      "path": "select/02_Il_mondo_dei_non_vivi_Andrea_Mirò.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Siamo vivi",
+      "artist": "Gianna Nannini",
+      "has_synced": true,
+      "path": "select/03_Siamo_vivi_Gianna_Nannini.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Siamo VIVI",
+      "artist": "Stadio",
+      "has_synced": false,
+      "path": "select/04_Siamo_VIVI_Stadio.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vivi",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/05_Vivi_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vivi",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/06_Vivi_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vivi davvero",
+      "artist": "Giorgia",
+      "has_synced": true,
+      "path": "select/07_Vivi_davvero_Giorgia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vivi Davvero (Live)",
+      "artist": "Giorgia",
+      "has_synced": true,
+      "path": "select/08_Vivi_Davvero_(Live)_Giorgia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vivi",
+      "artist": "Casino Royale",
+      "has_synced": false,
+      "path": "select/09_Vivi_Casino_Royale.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Per essere vivi",
+      "artist": "Nayt feat. 3D",
+      "has_synced": true,
+      "path": "select/10_Per_essere_vivi_Nayt_feat._3D.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tu vivi ancora",
+      "artist": "Pupo",
+      "has_synced": false,
+      "path": "select/11_Tu_vivi_ancora_Pupo.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "vivi",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/12_vivi_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Carol 2.0 (ViVi, Choerry, Yves)",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/13_The_Carol_2.0_(ViVi,_Choerry,_Yves)_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Le cose che vivi",
+      "artist": "Laura Pausini",
+      "has_synced": true,
+      "path": "select/14_Le_cose_che_vivi_Laura_Pausini.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come vivi senza me",
+      "artist": "Laura Pausini",
+      "has_synced": true,
+      "path": "select/15_Come_vivi_senza_me_Laura_Pausini.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Non si esce vivi dagli anni 80",
+      "artist": "Afterhours",
+      "has_synced": true,
+      "path": "select/16_Non_si_esce_vivi_dagli_anni_80_Afterhours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "vivi",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_vivi_米津玄師.txt"
+    }
+  ]
+}
